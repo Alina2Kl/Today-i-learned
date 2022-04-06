@@ -32,4 +32,4 @@
 30. Git add (назва файла якого треба додати в гіт)
 31. Git commit -m "second commit" закомітити файл що був доданий після add
   ![image](https://user-images.githubusercontent.com/102353259/160610159-f6d4c484-88ea-402d-bbd7-54297dbede8c.png)
-
+*
